@@ -1,7 +1,7 @@
 # SnakeGame
 Recreation of the classic Snake Game, developed as a study of the JavaScript language, using Canvas API
 
-Site hospedado no github pages:
+website hosted on github pages:
 
 https://rodrigosmoraes.github.io/SnakeGame/
 
